@@ -2,17 +2,13 @@
 <img src="assets/ic_launcher.png" width="150" alt="App Logo"/>
 
 [![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-success?style=for-the-badge&logo=android&logoColor=white)](https://github.com/PINAK-WORK/CARD-JAR/releases/latest)
-
-### ✨ About
--
-
 <br>
-
-## 📊 Repository Status
-
 ![Total Views](https://api.visitorbadge.io/api/visitors?path=PINAK-WORK.CARD-JAR&label=Total%20Views&countColor=%2300D9FF&style=for-the-badge)
 ![GitHub Downloads](https://img.shields.io/github/downloads/PINAK-WORK/CARD-JAR/total?style=for-the-badge&logo=github&logoColor=white&label=Downloads&color=00D9FF)
 ![Platform](https://img.shields.io/badge/Platform-Android-00D9FF?style=for-the-badge&logo=android&logoColor=white)
+
+### ✨ About
+An AI-powered, privacy-first business card scanner built with Flutter. It features a unique Bring Your Own Key (BYOK) model, giving you unlimited scanning and total control over your App.
 
 <br>
 
