@@ -24,7 +24,7 @@ Card Jar is an AI-powered business card scanner built on a "Bring Your Own Key" 
 
 <br>
 
-## 🚀 Features
+### 🚀 Features
 
 | Feature | Description |
 |---|---|
