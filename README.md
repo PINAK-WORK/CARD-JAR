@@ -3,7 +3,7 @@
 
 <br>
 
-<h1> Your pocket-sized, AI-powered business card organizer
+<h1> BYOK AI-powered business card organizer
 
 <br>
 <br>
