@@ -3,18 +3,21 @@
 
 <br>
 
+<a href="YOUR_PLAY_STORE_LINK_HERE">
+  <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="70"/>
+</a>
+
 <h1> BYOK AI-powered business card organizer
 
 <br>
 <br>
 
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-success?style=for-the-badge&logo=android&logoColor=white)](https://github.com/PINAK-WORK/CARD-JAR/releases/latest)
-[![Platform](https://img.shields.io/badge/Platform-Android-00D9FF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/PINAK-WORK/CARD-JAR)
-[![GitHub Downloads](https://img.shields.io/github/downloads/PINAK-WORK/CARD-JAR/total?style=for-the-badge&logo=github&logoColor=white&label=Downloads&color=00D9FF)](https://github.com/PINAK-WORK/CARD-JAR/releases)
-[![Total Views](https://api.visitorbadge.io/api/visitors?path=PINAK-WORK.CARD-JAR&label=Total%20Views&countColor=%2300D9FF&style=for-the-badge)](https://github.com/PINAK-WORK/CARD-JAR)
 
 </div>
+
+[![Platform](https://img.shields.io/badge/Platform-Android-00D9FF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/PINAK-WORK/CARD-JAR)
+[![Total Views](https://api.visitorbadge.io/api/visitors?path=PINAK-WORK.CARD-JAR&label=Total%20Views&countColor=%2300D9FF&style=for-the-badge)](https://github.com/PINAK-WORK/CARD-JAR)
 
 ### ✨ About
 
@@ -37,7 +40,7 @@ Card Jar is an AI-powered business card scanner built on a "Bring Your Own Key" 
 
 <br>
 
-### 🌐 Connect With Me
+### 🐶 Say Hi !!, I dont bite
 
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pinak_dhoklu/)
 [![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pinak_dhoklu)
